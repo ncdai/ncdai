@@ -6,10 +6,10 @@ Senior Frontend Developer at Simplamo && Founder of ZaDark
 
 A guy who is passionate about Software Design && Development
 
-* 🌍  I'm based in Ho Chi Minh City, Viet Nam
-* 🚀  I'm currently working on [Simplamo](https://simplamo.com) && [ZaDark](https://zadark.quaric.com)
-* 🧠  I'm learning [Electron](https://www.electronjs.org/)
-* 🤝  I'm open to collaborating on interesting projects
+* 🌍 I'm based in Ho Chi Minh City, Viet Nam
+* 🚀 I'm currently working on [Simplamo](https://simplamo.com) && [ZaDark](https://zadark.quaric.com)
+* 🧠 I'm learning [Electron](https://www.electronjs.org/)
+* 🤝 I'm open to collaborating on interesting projects
 
 ### Skills
 
