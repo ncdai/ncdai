@@ -4,7 +4,7 @@ Hi 👋 My name is Nguyen Chanh Dai
 Senior Frontend Developer at Simplamo && Founder of ZaDark
 -------------------------
 
-A guy who is passionate about Software Design && Development
+I am a guy who is passionate about Software Design && Development
 
 * 🌍 I'm based in Ho Chi Minh City, Viet Nam
 * 🚀 I'm currently working on [Simplamo](https://simplamo.com) && [ZaDark](https://zadark.quaric.com)
