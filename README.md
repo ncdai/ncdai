@@ -6,7 +6,7 @@ Senior Frontend Developer at Simplamo / Founder of ZaDark
 
 I am a guy passionate about software creativity.
 
-* 🌍 I'm based in Ho Chi Minh City, Viet Nam
+* 🌍 I'm based in Binh Thanh District, Ho Chi Minh City
 * 🚀 I'm currently working on [Simplamo](https://simplamo.com) and [ZaDark](https://zadark.quaric.com)
 * 🧠 I'm learning [Electron](https://www.electronjs.org/)
 * 🤝 I'm open to collaborating on interesting projects
@@ -34,8 +34,10 @@ I am a guy passionate about software creativity.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/iamncdai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iamncdai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@ncdai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+- https://www.github.com/iamncdai
+- https://www.linkedin.com/in/iamncdai
+- https://www.youtube.com/@ncdai
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/zadark"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+- https://zadark.quaric.com/donate
