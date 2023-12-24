@@ -8,7 +8,7 @@ I am a guy passionate about software creativity.
 
 * 🌍 I'm based in Binh Thanh District, Ho Chi Minh City
 * 🚀 I'm currently working on [Simplamo](https://simplamo.com) and [ZaDark](https://zadark.quaric.com)
-* 🧠 I'm learning [Electron](https://www.electronjs.org/)
+* 🧠 I'm learning [Go](https://go.dev)
 * 🤝 I'm open to collaborating on interesting projects
 
 ### Skills
