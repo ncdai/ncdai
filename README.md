@@ -13,4 +13,4 @@ I am a guy passionate about software creativity.
 
 [ChanhDai.com](https://chanhdai.com)
 
-<a href="https://app.daily.dev/iamncdai"><img src="https://api.daily.dev/devcards/v2/ehL155j6m.png?r=3ap&type=wide" width="640" alt="Nguyen Chanh Dai's Dev Card"/></a>
+<a href="https://app.daily.dev/iamncdai"><img src="devcard.png" width="640" alt="Nguyen Chanh Dai's Dev Card"/></a>
