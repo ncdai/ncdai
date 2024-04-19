@@ -1,10 +1,9 @@
 # Hi 👋 I'm Chanh Dai
 
-### Senior Frontend Developer / UI Design Lead at Simplamo
+I am currently working at [Simplamo](https://simplamo.com/?ref=IN-926722), [Quaric](https://quaric.com/?utm_source=github&utm_medium=readme), and [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme).
 
-I'm currently working on [Simplamo](https://simplamo.com/?ref=IN-926722), [Quaric](https://quaric.com/?utm_source=github&utm_medium=readme) and [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme).
-
-<!-- I am a guy passionate about software creativity. 
+<!-- ### Senior Frontend Developer / UI Design Lead at Simplamo
+I am a guy passionate about software creativity. 
 * 🌍 I'm based in Binh Thanh District, Ho Chi Minh City, Viet Nam
 * 🚀 I'm currently working on [Simplamo](https://simplamo.com), [Quaric](https://quaric.com) and [ZaDark](https://zadark.quaric.com)
 * 🧠 I'm learning [Go](https://go.dev) and [Rust](https://www.rust-lang.org)
