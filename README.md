@@ -4,7 +4,7 @@ Hello, I am Chánh Đại, a Senior Frontend Developer at [Simplamo](https://sim
 
 I am passionate about creating software that makes life easier and more enjoyable. Outside of work, I enjoy watching movies, listening to music, and watching football. I pride myself on being diligent, meticulous, and responsible. I am always keen on exploring new technologies and applying them to personal projects.
 
-One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme) - a utility enabling Dark Mode for Zalo on PC and Web. Available on various platforms, it has over 70,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and over 7,000 installs on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since its launch in January 2022.
+One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme) - an extension enabling Dark Mode for Zalo on PC and Web. Available on various platforms, it has over 70,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and over 7,000 installs on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since its launch in January 2022.
 
 ---
 
