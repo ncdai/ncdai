@@ -1,6 +1,6 @@
 # ncdai
 
-Hello, I am Chánh Đại, a Senior Frontend Developer at [Simplamo](https://simplamo.com/?ref=IN-926722). My work focuses on developing web and mobile software using JavaScript and TypeScript. I have expertise in JavaScript, TypeScript, React, React Native, Next.js, Express.js, MongoDB, MySQL, Docker, and UI/UX Design. My goal is to deliver effective and user-friendly software for everyday use.
+Hello, World! I am Chánh Đại, a Senior Frontend Developer at [Simplamo](https://simplamo.com/?ref=IN-926722). My work focuses on developing web and mobile software using JavaScript and TypeScript. I have expertise in JavaScript, TypeScript, React, React Native, Next.js, Express.js, MongoDB, MySQL, Docker, and UI/UX Design. My goal is to deliver effective and user-friendly software for everyday use.
 
 I am passionate about creating software that makes life easier and more enjoyable. Outside of work, I enjoy watching movies, listening to music, and watching football. I pride myself on being diligent, meticulous, and responsible. I am always keen on exploring new technologies and applying them to personal projects.
 
