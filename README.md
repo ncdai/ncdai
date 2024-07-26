@@ -6,10 +6,7 @@ I am passionate about creating user-friendly software that makes life easier. Ou
 
 One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme), an extension that enables Dark Mode for Zalo on PC and Web. Available on various platforms, it has over 70,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and over 8,000 installs on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since its launch in January 2022.
 
----
-
-<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=github_dark" /> -->
-<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact&theme=github_dark" /> -->
+## Stats
 
 <span>
   <picture>
@@ -38,3 +35,6 @@ One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm
     <img src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact" height=200 align="center" />
   </picture>
 </span>
+
+<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=github_dark" /> -->
+<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact&theme=github_dark" /> -->
