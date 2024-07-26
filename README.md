@@ -8,9 +8,33 @@ One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm
 
 ---
 
+<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=github_dark" /> -->
+<!-- <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact&theme=github_dark" /> -->
+
 <span>
-  <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=dracula" />
+  <picture>
+    <source
+      srcset="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai" height=200 align="center" />
+  </picture>
 </span>
+
 <span>
-<img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&theme=dracula&layout=compact" />
+  <picture>
+    <source
+      srcset="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&layout=compact" height=200 align="center" />
+  </picture>
 </span>
