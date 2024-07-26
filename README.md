@@ -8,4 +8,9 @@ One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm
 
 ---
 
-<a href="https://app.daily.dev/ncdai"><img src="devcard.png" width="640" alt="Nguyen Chanh Dai's Dev Card"/></a>
+<span>
+  <img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api?username=ncdai&theme=dracula" />
+</span>
+<span>
+<img height=200 align="center" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?username=ncdai&langs_count=8&theme=dracula&layout=compact" />
+</span>
