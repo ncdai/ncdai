@@ -1,4 +1,4 @@
-# ncdai
+# NCDai
 
 Hello, World! I am Chánh Đại, a Senior Frontend Developer at [Simplamo](https://simplamo.com/?ref=IN-926722). My work focuses on developing web and mobile applications using React.
 
