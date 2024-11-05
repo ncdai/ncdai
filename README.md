@@ -4,7 +4,7 @@ Hello, World! I am Nguyễn Chánh Đại (NCDAi), a Senior Frontend Developer a
 
 I am passionate about creating user-friendly software that makes life easier. Outside of my work at Simplamo, I am always keen on exploring new technologies and applying them to personal projects.
 
-One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme), an extension that enables Dark Mode for Zalo on PC and Web. Available on various platforms, it has over 70,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and over 9,000 installs on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since its launch in January 2022.
+One of my notable projects is [ZaDark](https://zadark.com/?utm_source=github&utm_medium=readme), an extension that enables Dark Mode for Zalo on PC and Web. Available on various platforms, it has over 70,000 downloads on [SourceForge](https://sourceforge.net/projects/zadark) and over 10,000 installs on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob) since its launch in January 2022.
 
 <!-- ## Stats
 
