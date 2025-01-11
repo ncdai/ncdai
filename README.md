@@ -1,6 +1,6 @@
 # ChanhDai
 
-Hello, World! I am Nguyễn Chánh Đại (ChanhDai), a Senior Frontend Developer at [Simplamo](https://simplamo.com/?ref=IN-926722). My work focuses on developing web and mobile applications using React.
+Hello, World! I am Chánh Đại, a Senior Frontend Developer at [Simplamo](https://simplamo.com/?ref=IN-926722). My work focuses on developing web and mobile applications using React.
 
 I am passionate about creating user-friendly software that makes life easier. Outside of my work at Simplamo, I am always keen on exploring new technologies and applying them to personal projects.
 
