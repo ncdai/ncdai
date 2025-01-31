@@ -1,3 +1,3 @@
-# ChanhDai
+# I am passionate about software creativity.
 
-[chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
+Visit my personal website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
