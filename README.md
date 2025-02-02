@@ -1,3 +1,3 @@
-# I am passionate about software creativity.
+# Creating with code, driven by passion.
 
 Visit my personal website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
