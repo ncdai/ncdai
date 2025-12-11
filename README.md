@@ -11,7 +11,7 @@ Creator of [ZaDark](https://zadark.com) (2022): enhances the Zalo experience on 
   - **30k+ active users** on the [Chrome Web Store](https://chromewebstore.google.com/detail/llfhpkkeljlgnjgkholeppfnepmjppob)
 
 Creator of [React Wheel Picker](https://react-wheel-picker.chanhdai.com): iOS-like wheel picker with inertia scrolling & infinite loop
-  - **9k+ weekly downloads** on [npm](https://www.npmjs.com/package/@ncdai/react-wheel-picker)
+  - **10k+ weekly downloads** on [npm](https://www.npmjs.com/package/@ncdai/react-wheel-picker)
   - [▲Vercel OSS Program](https://vercel.com/blog/summer-2025-oss-program#react-wheel-picker) summer 2025 cohort
 
 Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
