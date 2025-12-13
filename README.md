@@ -19,7 +19,7 @@ Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=gith
 ## Stats
 
 [![ncdai-github-stats-dark](https://github-readme-stats.vercel.app/api?username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
-[![ncdai-github-stats-light](https://github-readme-stats.vercel.app/api?username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=light&bg_color=fafafa&border_radius=12#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
+[![ncdai-github-stats-light](https://github-readme-stats.vercel.app/api?username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
 
 [![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
 [![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
