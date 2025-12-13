@@ -15,3 +15,7 @@ Creator of [React Wheel Picker](https://react-wheel-picker.chanhdai.com): iOS-li
   - [▲Vercel OSS Program](https://vercel.com/blog/summer-2025-oss-program#react-wheel-picker) summer 2025 cohort
 
 Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
