@@ -16,6 +16,14 @@ Creator of [React Wheel Picker](https://react-wheel-picker.chanhdai.com): iOS-li
 
 Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
 
+## Stats
+
+[![ncdai-github-stats-dark](https://github-readme-stats.vercel.app/api?username=ncdai&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
+[![ncdai-github-stats-light](https://github-readme-stats.vercel.app/api?username=ncdai&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
+
+![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ncdai&layout=compact&theme=dark#gh-dark-mode-only)
+![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=ncdai&layout=compact&theme=default#gh-light-mode-only)
+
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Scroll Fade Effect](https://chanhdai.com/blog/scroll-fade-effect)
