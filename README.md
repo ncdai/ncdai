@@ -18,4 +18,9 @@ Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=gith
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scroll Fade Effect](https://chanhdai.com/blog/scroll-fade-effect)
+- [chanhdai.com Highlighted in Video by Creator of Aceternity UI: Make Your Portfolio Unforgettable](https://chanhdai.com/blog/chanhdai-com-highlighted-in-video-by-creator-of-aceternity-ui-make-your-portfolio-unforgettable)
+- [GitHub Stars](https://chanhdai.com/blog/github-stars)
+- [Shimmering Text](https://chanhdai.com/blog/shimmering-text)
+- [Testimonials Marquee](https://chanhdai.com/blog/testimonials-marquee)
 <!-- BLOG-POST-LIST:END -->
