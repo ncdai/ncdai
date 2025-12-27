@@ -1,3 +1,5 @@
+## About
+
 - **Design Engineer** with 5+ years of experience, known for pixel-perfect execution and strong attention to small details.
 - Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
 - Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
