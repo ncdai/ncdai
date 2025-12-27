@@ -1,12 +1,9 @@
 ![GitHub Profile Views](https://gitviews.com/user/ncdai.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/ncdai/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
 
-**Design Engineer** with 5+ years of experience, known for pixel-perfect execution and strong attention to small details.
-
-Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
-
-Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
-
-Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
+- **Design Engineer** with 5+ years of experience, known for pixel-perfect execution and strong attention to small details.
+- Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
+- Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
+- Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
 
 ## Stats
 
