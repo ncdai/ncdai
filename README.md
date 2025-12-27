@@ -15,7 +15,7 @@
 [![top-langs-dark](https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
 [![top-langs-light](https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
 
-## Blog Posts
+## Blog
 <!-- BLOG-POST-LIST:START -->
 - [Consent Manager](https://chanhdai.com/blog/consent-manager)
 - [Scroll Fade Effect](https://chanhdai.com/blog/scroll-fade-effect)
