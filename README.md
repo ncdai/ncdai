@@ -9,11 +9,10 @@
 
 ![GitHub Profile Views](https://gitviews.com/user/ncdai.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/ncdai/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
 
-[![ncdai-github-stats-dark](https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456&custom_title=Overview#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
-[![ncdai-github-stats-light](https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456&custom_title=Overview#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
-
-[![top-langs-dark](https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only)](https://github.com/ncdai/github-readme-stats#gh-dark-mode-only)
-[![top-langs-light](https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only)](https://github.com/ncdai/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="ncdai-github-stats-dark" height="200" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456&custom_title=Overview#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="ncdai-github-stats-light" height="200" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456&custom_title=Overview#gh-light-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="top-langs-dark" height="200" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="top-langs-light" height="200" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only"></a>
 
 ## Blog
 <!-- BLOG-POST-LIST:START -->
