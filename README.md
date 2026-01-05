@@ -21,9 +21,9 @@
 
 ## Blog
 <!-- BLOG-POST-LIST:START -->
+- [OrcDev and Francesco Ciulla Reviewed My Open Source Portfolio](https://chanhdai.com/blog/orcdev-and-francesco-ciulla-reviewed-my-open-source-portfolio)
 - [Consent Manager](https://chanhdai.com/blog/consent-manager)
 - [Scroll Fade Effect](https://chanhdai.com/blog/scroll-fade-effect)
 - [chanhdai.com Highlighted in Video by Creator of Aceternity UI: Make Your Portfolio Unforgettable](https://chanhdai.com/blog/chanhdai-com-highlighted-in-video-by-creator-of-aceternity-ui-make-your-portfolio-unforgettable)
 - [GitHub Stars](https://chanhdai.com/blog/github-stars)
-- [Shimmering Text](https://chanhdai.com/blog/shimmering-text)
 <!-- BLOG-POST-LIST:END -->
