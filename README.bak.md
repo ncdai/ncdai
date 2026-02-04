@@ -1,0 +1,29 @@
+## About
+
+- **Design Engineer** with 5+ years of experience, known for pixel-perfect execution and strong attention to small details.
+- Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technologies; building high-quality, user-centric web and mobile applications.
+- Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
+- Visit my portfolio website: [chanhdai.com](https://chanhdai.com/?utm_source=github&utm_medium=readme)
+
+## Stats
+
+![GitHub Profile Views](https://gitviews.com/user/ncdai.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/ncdai/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
+
+<!-- <a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="ncdai-github-stats-dark" height="200" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="ncdai-github-stats-light" height="200" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="top-langs-dark" height="200" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=320#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="top-langs-light" height="200" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=320#gh-light-mode-only"></a> -->
+
+<a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="ncdai-github-stats-dark" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="ncdai-github-stats-light" src="https://ncdai-github-readme-stats.vercel.app/api?v=2&username=ncdai&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=440&custom_title=Overview#gh-light-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-dark-mode-only"><img align="top" alt="top-langs-dark" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=00000000&border_radius=12&card_width=320#gh-dark-mode-only"></a>
+<a href="https://github.com/ncdai/github-readme-stats#gh-light-mode-only"><img align="top" alt="top-langs-light" src="https://ncdai-github-readme-stats.vercel.app/api/top-langs/?v=2&username=ncdai&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=00000000&border_radius=12&card_width=320#gh-light-mode-only"></a>
+
+## Blog
+<!-- BLOG-POST-LIST:START -->
+- [OrcDev and Francesco Ciulla Reviewed My Open Source Portfolio](https://chanhdai.com/blog/orcdev-and-francesco-ciulla-reviewed-my-open-source-portfolio)
+- [Consent Manager](https://chanhdai.com/blog/consent-manager)
+- [Scroll Fade Effect](https://chanhdai.com/blog/scroll-fade-effect)
+- [chanhdai.com Highlighted in Video by Creator of Aceternity UI: Make Your Portfolio Unforgettable](https://chanhdai.com/blog/chanhdai-com-highlighted-in-video-by-creator-of-aceternity-ui-make-your-portfolio-unforgettable)
+- [GitHub Stars](https://chanhdai.com/blog/github-stars)
+<!-- BLOG-POST-LIST:END -->
