@@ -62,6 +62,20 @@ Grateful for the support that helps me grow and maintain high-quality projects.
     </tr>
     <tr>
       <td>
+        <a href="https://www.shadcnblocks.com?utm_source=chanhdai.com#gh-light-mode-only">
+          <img
+            src="https://assets.chanhdai.com/images/sponsors/shadcnblocks.svg?v=1#gh-light-mode-only"
+            alt="Shadcnblocks"
+          />
+        </a>
+        <a href="https://www.shadcnblocks.com?utm_source=chanhdai.com#gh-dark-mode-only">
+          <img
+            src="https://assets.chanhdai.com/images/sponsors/shadcnblocks-dark.svg?v=1#gh-dark-mode-only"
+            alt="Shadcnblocks"
+          />
+        </a>
+      </td>
+      <td>
         <a href="https://reactbits.dev?utm_source=chanhdai.com#gh-light-mode-only">
           <img
             src="https://assets.chanhdai.com/images/sponsors/reactbits.svg?v=1#gh-light-mode-only"
@@ -75,6 +89,8 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://openpanel.dev?utm_source=chanhdai.com#gh-light-mode-only">
           <img
@@ -89,6 +105,7 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
