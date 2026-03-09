@@ -105,7 +105,11 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
-      <td></td>
+      <td align="center">
+        <a href="https://github.com/sponsors/ncdai">
+          Sponsor My Work
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
