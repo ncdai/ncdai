@@ -29,8 +29,6 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://shadcraft.com?utm_source=chanhdai.com#gh-light-mode-only">
           <img
@@ -45,6 +43,8 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://www.shadcnblocks.com?utm_source=chanhdai.com#gh-light-mode-only">
           <img
@@ -59,8 +59,6 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://reactbits.dev?utm_source=chanhdai.com#gh-light-mode-only">
           <img
@@ -110,6 +108,7 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           Sponsor My Work
         </a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
