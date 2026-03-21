@@ -30,16 +30,16 @@ Grateful for the support that helps me grow and maintain high-quality projects.
         </a>
       </td>
       <td>
-        <a href="https://shadcraft.com?utm_source=chanhdai.com#gh-light-mode-only">
+        <a href="https://shadcncraft.com?utm_source=chanhdai.com#gh-light-mode-only">
           <img
-            src="https://assets.chanhdai.com/images/sponsors/shadcraft.svg?v=1#gh-light-mode-only"
-            alt="Shadcraft"
+            src="https://assets.chanhdai.com/images/sponsors/shadcncraft.svg?v=1#gh-light-mode-only"
+            alt="shadcncraft"
           />
         </a>
-        <a href="https://shadcraft.com?utm_source=chanhdai.com#gh-dark-mode-only">
+        <a href="https://shadcncraft.com?utm_source=chanhdai.com#gh-dark-mode-only">
           <img
-            src="https://assets.chanhdai.com/images/sponsors/shadcraft-dark.svg?v=1#gh-dark-mode-only"
-            alt="Shadcraft"
+            src="https://assets.chanhdai.com/images/sponsors/shadcncraft-dark.svg?v=1#gh-dark-mode-only"
+            alt="shadcncraft"
           />
         </a>
       </td>
