@@ -73,50 +73,6 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
-      <td>
-        <a href="https://uirules.com?utm_source=chanhdai.com#gh-light-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/uirules.svg?v=1#gh-light-mode-only"
-            alt="UI Rules"
-          />
-        </a>
-        <a href="https://uirules.com?utm_source=chanhdai.com#gh-dark-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/uirules-dark.svg?v=1#gh-dark-mode-only"
-            alt="UI Rules"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://shoogle.dev?utm_source=chanhdai.com#gh-light-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/shoogle.svg?v=1#gh-light-mode-only"
-            alt="Shoogle"
-          />
-        </a>
-        <a href="https://shoogle.dev?utm_source=chanhdai.com#gh-dark-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/shoogle-dark.svg?v=1#gh-dark-mode-only"
-            alt="Shoogle"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.fonttrio.xyz?utm_source=chanhdai.com#gh-light-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/fonttrio.svg?v=1#gh-light-mode-only"
-            alt="Fonttrio"
-          />
-        </a>
-        <a href="https://www.fonttrio.xyz?utm_source=chanhdai.com#gh-dark-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/fonttrio-dark.svg?v=1#gh-dark-mode-only"
-            alt="Fonttrio"
-          />
-        </a>
-      </td>
       <td></td>
     </tr>
   </tbody>
