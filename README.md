@@ -74,22 +74,6 @@ Grateful for the support that helps me grow and maintain high-quality projects.
         </a>
       </td>
       <td>
-        <a href="https://openpanel.dev?utm_source=chanhdai.com#gh-light-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/openpanel.svg?v=1#gh-light-mode-only"
-            alt="OpenPanel"
-          />
-        </a>
-        <a href="https://openpanel.dev?utm_source=chanhdai.com#gh-dark-mode-only">
-          <img
-            src="https://assets.chanhdai.com/images/sponsors/openpanel-dark.svg?v=1#gh-dark-mode-only"
-            alt="OpenPanel"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://uirules.com?utm_source=chanhdai.com#gh-light-mode-only">
           <img
             src="https://assets.chanhdai.com/images/sponsors/uirules.svg?v=1#gh-light-mode-only"
@@ -103,6 +87,8 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://shoogle.dev?utm_source=chanhdai.com#gh-light-mode-only">
           <img
@@ -131,6 +117,7 @@ Grateful for the support that helps me grow and maintain high-quality projects.
           />
         </a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
